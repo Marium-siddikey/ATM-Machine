@@ -1,0 +1,20 @@
+{
+  "name": "atm-machine-by-marium-siddikey",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "atm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.22"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
